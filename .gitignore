@@ -2,3 +2,4 @@
 data/flickr30k_images
 backup/
 data/*
+graphs/
